@@ -2,12 +2,12 @@ CÓ THỂ CHẠY FILE JUPYTER NOTEBOOK TRÊN GOOGLE COLAB, VISUAL STUDIO CODE
 NÊN CHẠY BẰNG GPU ĐỂ CÓ TỐC ĐỘ NHANH HƠN
 THÔNG TIN NHÓM 8 - COMPUTER VISION
 GVHD: ThS. Nguyễn Thị Nguyệt
-Đàm Minh Khuê
+/nĐàm Minh Khuê
 2155020046
-Đinh Tuệ Minh
+/nĐinh Tuệ Minh
 2155020062
-Nguyễn Lê Cẩm Nhung
+/nNguyễn Lê Cẩm Nhung
 2155020072
-Nguyễn Thị Thanh Tâm
+/nNguyễn Thị Thanh Tâm
 2155020082
 
